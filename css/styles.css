@@ -9,5 +9,14 @@
   margin-top:20px;
 }
 .div2{
-  display: flex;
+  display: flex;margin-left: 140px;margin-top: 20px;
+}
+.sdiv2{
+  background-color: grey;
+}
+.button2{
+  padding: 10px;border-color:white;background-color: grey;padding-left: 30px;padding-right: 30px;
+}
+.button{
+  padding: 10px;border-color:white;background-color: grey;padding-left: 30px;padding-right: 30px;color: grey;
 }
