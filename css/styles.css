@@ -9,7 +9,7 @@
   margin-top:20px;
 }
 .div2{
-  display: flex;margin-left: 140px;margin-top: 20px;
+  display: flex;margin-left: 140px;margin-top: 20px;padding-bottom: 20px;
 }
 .sdiv2{
   background-color: grey;
@@ -19,4 +19,22 @@
 }
 .button{
   padding: 10px;border-color:white;background-color: grey;padding-left: 30px;padding-right: 30px;color: grey;
+}
+.c2{
+  font-size: 45px;text-align: center;margin-top: 100px;
+}
+.span1{
+  color: rgb(184, 50, 2);
+}
+.c3{
+  font-size: 35px;text-align: center;margin-top: 50px;
+}
+.c4{
+  font-size: 20px;text-align: center;
+}
+.c5{
+  text-align: center;color: rgb(184, 50, 2);
+}
+.c6{
+  text-align: center;font-size: 35px;
 }
