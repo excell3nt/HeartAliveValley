@@ -1,0 +1,13 @@
+.c1{
+  margin-left: 150px;width: 230px;
+}
+.button1{
+  background-color:rgb(221, 52, 52);padding: 10px;border: none;border-radius: 5px;padding-left: 25px;
+  padding-right: 25px;color: white;
+}
+.div1{
+  margin-top:20px;
+}
+.div2{
+  display: flex;
+}
