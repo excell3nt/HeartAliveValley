@@ -42,10 +42,22 @@
   text-align: center;font-size: 35px;color: white;padding-top: 150px;
 }
 .div3{
-  background-image: url(../img/homep_hero_slider_1_opt-1200x256.jpg);
+  background-image: url(../img/homep_hero_slider_2B_opt-1200x256.jpg);
   background-repeat: no-repeat;background-size: cover;height: 450px;width: 100%;
 }
 .c8{
   color: white;background-color: rgb(184, 50, 2);border-radius: 5px;padding: 15px;padding-left: 35px;
   padding-right: 35px;border: none;margin-left: 580px;margin-top: 60px;
+}
+.c9{
+  font-size: 35px;text-align: center;margin-top: 50px;
+}
+.div4{
+  display: flex;
+}
+.c12{
+  font-size: 20px;
+}
+.c10{
+  margin-left: 150px;
 }
