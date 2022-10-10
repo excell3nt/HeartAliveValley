@@ -120,4 +120,9 @@ width: 100%;background-color: rgb(197, 51, 51);margin-top: 50px;padding-bottom: 
 .c25{
   text-align: center;color: white;padding-top: 20px;
 }
-.sf
+.sfooterdiv{
+ display: flex; height: 200px;width: 100%;
+}
+.c26{
+  width: 80px;height: 100px;
+}
