@@ -121,8 +121,17 @@ width: 100%;background-color: rgb(197, 51, 51);margin-top: 50px;padding-bottom: 
   text-align: center;color: white;padding-top: 20px;
 }
 .sfooterdiv{
- display: flex; height: 200px;width: 100%;
+ display: flex;padding-left: 380px;
 }
 .c26{
-  width: 80px;height: 100px;
+  width: 90px;height: 90px;margin-left: 50px;
+}
+.c27{
+  width: 100px;height: 80px;margin-left: 50px;
+}
+.c28{
+  width:110px ;height: 30px;margin-left: 50px;margin-top: 30px;
+}
+.c29{
+  text-align: center;color: white;font-size: 15px;
 }
