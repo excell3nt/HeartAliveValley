@@ -42,7 +42,7 @@
   text-align: center;font-size: 35px;color: white;padding-top: 150px;
 }
 .div3{
-  background-image: url(../img/homep_hero_slider_2B_opt-1200x256.jpg);
+  background-image: url(../img/tom-and-sharon_opt-1200x740.jpg);
   background-repeat: no-repeat;background-size: cover;height: 450px;width: 100%;
 }
 .c8{
@@ -69,4 +69,13 @@
 }
 #id2{
   margin-top: 50px;
+}
+.imgdiv4{
+  width:250px;padding-top: 50px;
+}
+.div6{
+  display: flex;
+}
+.c15{
+  width: 400px;
 }
