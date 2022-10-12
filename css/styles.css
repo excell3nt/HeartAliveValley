@@ -139,8 +139,11 @@ width: 100%;background-color: rgb(197, 51, 51);margin-top: 50px;padding-bottom: 
   color: rgb(230, 5, 5);
 }
 .c30{
-  width: 50px;padding-left: 20px;
+  width: 50px;padding-left: 20px;cursor: pointer;
 }
 #fbicon{
-  margin-left: 180px;
+  margin-left: 180px;cursor: pointer;
+}
+.searchicon{
+  width: 35px;margin-left: 25px;cursor: pointer;
 }
