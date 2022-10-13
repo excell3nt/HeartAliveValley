@@ -121,7 +121,7 @@ width: 100%;background-color: rgb(197, 51, 51);margin-top: 50px;padding-bottom: 
   text-align: center;color: white;padding-top: 20px;
 }
 .sfooterdiv{
- display: flex;padding-left: 380px;padding-bottom: 20px;
+ display: flex;padding-left: 380px;padding-bottom: 30px;padding-top: 45px;
 }
 .c26{
   width: 90px;height: 90px;margin-left: 40px;cursor: pointer;
