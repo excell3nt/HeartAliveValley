@@ -124,19 +124,19 @@ width: 100%;background-color: rgb(197, 51, 51);margin-top: 50px;padding-bottom: 
  display: flex;padding-left: 380px;padding-bottom: 20px;
 }
 .c26{
-  width: 90px;height: 90px;margin-left: 40px;
+  width: 90px;height: 90px;margin-left: 40px;cursor: pointer;
 }
 .c27{
-  width: 100px;height: 80px;margin-left: 40px;
+  width: 100px;height: 80px;margin-left: 40px;cursor: pointer;
 }
 .c28{
-  width:110px ;height: 30px;margin-left: 40px;margin-top: 30px;
+  width:110px ;height: 30px;margin-left: 40px;margin-top: 30px;cursor: pointer;
 }
 .c29{
   text-align: center;color: white;font-size: 13px;
 }
 .span4{
-  color: rgb(230, 5, 5);
+  color: rgb(230, 5, 5);cursor: pointer;
 }
 .c30{
   width: 50px;padding-left: 20px;cursor: pointer;
