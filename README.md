@@ -12,7 +12,7 @@
 
 ## Description
 
-_{The Animal Shelter project is an applicatiion that allows }_
+_The Animal Shelter project is an applicatiion that is made available to Understand and meet the needs of the community, Provide valuable information, resources and support that pet owners haven’t had before, Offer lower cost/higher quality veterinary care in a loving and compassionate environment._
 
 ## Setup/Installation Requirements
 
