@@ -16,7 +16,7 @@ _{The Animal Shelter project is an applicatiion that allows }_
 
 ## Setup/Installation Requirements
 
-* _Clone this repsository to Desktop_
+* _Clone this repsository from Github to Desktop_
 * _Navigate to the top directory_
 * _Open index.html_
 
