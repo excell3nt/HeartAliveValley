@@ -9,7 +9,7 @@
   margin-top:20px;
 }
 .div2{
-  display: flex;margin-left: 140px;margin-top: 20px;padding-bottom: 20px;
+  display: flex;margin-left: 17px;margin-top: 20px;padding-bottom: 20px;
 }
 .sdiv2{
   background-color: grey;
@@ -160,7 +160,7 @@ width: 100%;background-color: rgb(197, 51, 51);margin-top: 50px;padding-bottom: 
   font-size: 20px;
 }
 .div2blog{
-  display: flex;margin-left: 50px;margin-top: 80px;
+  display: flex;margin-left: 50px;margin-top: 80px;margin-bottom: 150px;
 }
 .c3blog{
   font-size: 48px;margin-left: 20px;margin-top: 15px;
