@@ -160,5 +160,17 @@ width: 100%;background-color: rgb(197, 51, 51);margin-top: 50px;padding-bottom: 
   font-size: 20px;
 }
 .div2blog{
-  display: flex;margin-left: 100px;
+  display: flex;margin-left: 50px;margin-top: 80px;
+}
+.c3blog{
+  font-size: 48px;margin-left: 20px;margin-top: 15px;
+}
+.c4blog{
+  font-size: 20px;margin-left: 20px;
+}
+.sdiv2blog{
+  margin-left: 50px;
+}
+.div2imgblog{
+  width: 350px;
 }
