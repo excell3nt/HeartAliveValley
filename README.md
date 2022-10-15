@@ -1,6 +1,6 @@
 # _Animal shelter project_
 
-#### _{This application }_
+#### _this application contributes in providing support and care to pet and pet owners_
 
 #### By _**Adumekwe Excellent**_
 
@@ -23,7 +23,7 @@ _The Animal Shelter project is an applicatiion that is made available to Underst
 
 ## Known Bugs
 
-* _NO KNOWN BUGS_
+* _NO KNOWN BUG_
 
 ## License
 
